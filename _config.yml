@@ -1,4 +1,1 @@
 theme: jekyll-theme-leap-day
-{% for post in site.posts %}
-{% include JB/post_content %}
-{% endfor %}
